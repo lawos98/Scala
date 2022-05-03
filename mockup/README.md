@@ -3,7 +3,7 @@
 ## Map
 
 <p align="center">
-<img src="assets/Sketch2.jpg" alt=""/>
+<img height="700"  src="assets/Sketch2.jpg" alt=""/>
 </p>
 
 ### Description
@@ -20,7 +20,7 @@ We start our adventure at the starting point and climb further on the map where 
 ## Battle
 
 <p align="center">
-<img src="assets/Sketch1.jpg" alt=""/>
+<img height="700" src="assets/Sketch1.jpg" alt=""/>
 </p>
 
 ### Description
