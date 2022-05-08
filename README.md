@@ -1,8 +1,8 @@
-# Tower of Gods
+<img width="100%" src="assets/banner.gif">
 
 ## Description
 
-The project aims to develop the understanding of Scala 3
+The project aims to develop the understanding of Scala 3 using Indigo by creating a simple roguelike deck-building game with pixel art style graphics.
 
 ## Languages and Tools
 
