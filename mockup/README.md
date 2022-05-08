@@ -8,7 +8,7 @@
 
 ### Description
 
-- We start our adventure at the starting point and climb further on the map where we can meet
+- We start our adventure at the starting point and climb further on the random generated map.
 
 ### Details
 
