@@ -13,7 +13,7 @@ The project aims to develop the understanding of Scala 3 using Indigo by creatin
 
 ## List
 
-* [Mockup](mockup)
+* [Concept](concept)
 
 ## Authors
 
